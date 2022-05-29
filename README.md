@@ -3,9 +3,6 @@
 
 ♀(Ela/Dela She/Her)  |̲̅<̲̅Θ̲̅>̲̅|Brasileira.🌎Brazilian
 
-👩🏾‍💻 Estudante de tecnologia, em transição de carreira.
-🌱Technology student, in career transition.
-
 💻Atualmente estudando, HTML, CSS, Java Script, React.
 📗 Currently studying, HTML, CSS, Java Script, React.
 
