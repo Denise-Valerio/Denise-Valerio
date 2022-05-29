@@ -2,7 +2,8 @@
  💁🏾‍Hi! I'm Denise Matos Valério.
 
 ♀(Ela/Dela She/Her) 
-🇧🇷Brasileira.🌎Brazilian
+
+🇧🇷Brasileira 🌎Brazilian
 
 💻Atualmente estudando, HTML, CSS, Java Script, React.
 📗 Currently studying, HTML, CSS, Java Script, React.
