@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Denise Matos Valério.
  💁🏾‍Hi! I'm Denise Matos Valério.
 
-♀(Ela/Dela She/Her)  |̲̅<̲̅Θ̲̅>̲̅|Brasileira.🌎Brazilian
+♀(Ela/Dela She/Her) |̲̅<̲̅Θ̲̅>̲̅|Brasileira.🌎Brazilian
 
 💻Atualmente estudando, HTML, CSS, Java Script, React.
 📗 Currently studying, HTML, CSS, Java Script, React.
