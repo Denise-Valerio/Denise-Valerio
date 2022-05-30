@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Denise Matos Valério.
- 💁🏾‍Hi! I'm Denise Matos Valério.
+👋🏾Hi! I'm Denise Matos Valério.👩🏾‍🦱
 
 ♀(Ela/Dela She/Her) 
 
