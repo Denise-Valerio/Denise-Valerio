@@ -30,5 +30,4 @@
   <a href = "mailto:matosdenise1987@gmail.com""https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
-![IMG_DM](https://user-images.githubusercontent.com/102037426/171743398-df67cf77-96ac-4c1b-b051-2772012ceeca.jpg)
- 
+![IMG_20220602_223741](https://user-images.githubusercontent.com/102037426/171771799-577cca1a-7339-4766-8058-7b2cf214b94a.jpg)
